@@ -26,7 +26,7 @@
       <img  alt="NodeJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   </a>
   <a  target="_blank" rel="noreferrer">
-      <img  alt="HTML" height="50px" style="padding-right:10px;" src="https://img.icons8.com/?size=256&id=SDVmtZ6VBGXt&format=png"/>
+      <img  alt="HTML" height="50px" style="padding-right:10px;" src="https://img.icons8.com/?size=256&id=2ZOaTclOqD4q&format=png"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
       <img  alt="HTML" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
