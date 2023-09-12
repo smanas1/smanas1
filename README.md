@@ -75,14 +75,7 @@
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
 
-![Khaled Badran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=smanas1&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=smanas1&count_private=true&theme=algolia&border_radius=20)
-
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smanas1&show_icons=true&theme=algolia&border_radius=20) -->
-    
-<!-- compact programming languages layout -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smanas1&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+![smanas1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=smanas1&theme=radical&hide_border=true)
 </div>
 <!--  End Stats Cards -->
 
