@@ -73,10 +73,9 @@
 <!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
 <!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
 <!-- Change the value after ?username= to your GitHub username. -->
-<div class="stats" align="center">
 
 ![smanas1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=smanas1&theme=radical&hide_border=true)
-</div>
+
 <!--  End Stats Cards -->
 
 ---
