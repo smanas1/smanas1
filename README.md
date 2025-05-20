@@ -1,7 +1,4 @@
 
-![github_cover_banner](https://github.com/smanas1/smanas1/blob/main/Purple%20Gradient%20Digital%20Marketing%20LinkedIn%20Banner.gif?raw=true)
-
-
 <!-- Languages And Tools -->
 
 <h2 style="color: #44AEFB" align="center">⚙️ Languages And Tools</h2>
