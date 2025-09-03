@@ -26,6 +26,7 @@
 | **Database** | <img src="https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"> <img src="https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"> |
 | **Tools**    | <img src="https://img.shields.io/badge/-Git-red?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/-JWT-black?style=for-the-badge&logo=jsonwebtoken&logoColor=white" alt="JWT"> <img src="https://img.shields.io/badge/-Mongoose-red?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose"> <img src="https://img.shields.io/badge/-Zod-blue?style=for-the-badge&logo=zod&logoColor=white" alt="Zod"> <br> <img src="https://img.shields.io/badge/-Postman-orange?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"> |
 
+<div align="center">
 
 # 📊 GitHub Stats:
 
@@ -33,6 +34,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=smanas1&theme=aura_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=smanas1&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
