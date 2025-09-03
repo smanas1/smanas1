@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smanas1&label=Profile%20views&color=0e75b6&style=flat" alt="smanas1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smanas1" alt="smanas1" /></a> </p>
-
 - 🔭 I’m currently working on **MERN stack projects**
 
 - 🌱 I’m continuously learning **PostgreSQL and advanced Node.js concepts.**
