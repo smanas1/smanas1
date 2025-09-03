@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi there, I'm SM Anas</h1>
-<h3 align="center">I’m SM Anas, a passionate Full Stack Web Developer focused on building efficient and scalable web applications. I love creating clean and modern user interfaces, solving real-world problems with code, and continuously learning new technologies to stay ahead in the world of web development.</h3>
+<h3 align="center"> A passionate Full Stack Web Developer focused on building efficient and scalable web applications. I love creating clean and modern user interfaces, solving real-world problems with code, and continuously learning new technologies to stay ahead in the world of web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smanas1&label=Profile%20views&color=0e75b6&style=flat" alt="smanas1" /> </p>
 
