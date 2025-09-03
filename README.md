@@ -28,9 +28,11 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=smanas1&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+<div>
+  ![](https://github-readme-stats.vercel.app/api?username=smanas1&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=smanas1&theme=aura_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=smanas1&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
