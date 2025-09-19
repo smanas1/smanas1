@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/smanas1/smanas1/refs/heads/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png)
+![Logo](https://github.com/smanas1/smanas1/blob/main/Black%20and%20White%20Simple%20Front%20End%20LinkedIn%20Banner.png?raw=true)
 
 
 <h1 align="center">Hi there, I'm SM Anas</h1>
